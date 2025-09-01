@@ -1,12 +1,12 @@
 {
-  "name": "ASITHA-MD",
+  "name": "ZANU-MD",
   "version": "1.0.0",
   "description": "A WhatsApp bot created using Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start start.js --deep-monitoring --attach --name ASITHA-MD",
-    "stop": "pm2 stop ASITHA-MD",
-    "restart": "pm2 restart ASITHA-MD"
+    "start": "pm2 start start.js --deep-monitoring --attach --name ZANU-MD",
+    "stop": "pm2 stop ZANU-MD",
+    "restart": "pm2 restart ZANU-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "github:Hupa11/Asithamdb",
